@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "Nanu manushya" %></h2>
+<h2><%= "Nanu " %></h2>
 </body>
 </html>
